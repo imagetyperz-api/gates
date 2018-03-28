@@ -1,12 +1,6 @@
 ## Gates
 
-The gates are designed to redirect traffic from other captcha services to imagetyperz.com
-
-Currently, we've integrated the following services:
-
-- 2captcha.com
-- deathbycaptcha.com
-- anti-captcha.com
+Deathbycaptcha,anti-captcha and 2captcha api support for integration with any software
 
 ### Usage
 
